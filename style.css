@@ -24,22 +24,27 @@ section {
     display: flex;
 }
 .fyja{
-    width: 30%;
+    width: 50%;
 }
 .fatema{
-    width: 80%;
-    padding-top: 20px;
+    width: 50%;
+    padding-top: 10px;
     padding-left: 20px;
 }
 .fatema img{
     margin-left: 25px;
-    margin-top: 90px;
+    margin-top: 5px;
     margin-right: 20px;
     
 }
 #banner{
     background-image: url(image/top-banner.png);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
+}
 
-    
+#fbanner{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
