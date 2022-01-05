@@ -4,16 +4,16 @@ body{
 }
 
 h1{
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 700px;
 
 }
 p{
     text-align: justify;
     font-size: 35px;
-    color: #0f5827;
-    background-color: #d8c7b7dc;
-    padding: 10px;
+    color: #190bebef;
+    background-color: lightpink;
+    padding: 30px;
     margin-left: 10px;
 }
 
@@ -28,10 +28,11 @@ p{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 20px;
+    padding: 10px 40px;
 }
 .link-button{
     text-decoration: none;
+    font-size: 35px;
     background-image:linear-gradient(orange, tomato);
     padding: 10px 40px;
     margin-top: 10px;
@@ -50,17 +51,19 @@ p{
     background-position: right;
 }
 .box{
-    box-shadow: 10px 20px 10px gray;
-    width: 30%;
-    margin-left: 10%;
-    margin-right: 10%;
+    box-shadow: 10px 1px 10px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 20px;
     border: 10px;
     border-radius: 20px;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
 }
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
 h3{
-    font-size: 30px;
+    font-size: 40px;
 }
